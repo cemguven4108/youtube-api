@@ -14,7 +14,7 @@ import lombok.Setter;
 @Setter
 @AllArgsConstructor
 @Document
-public class Data {
+public class YoutubeResponse {
 
     @Id
     @NotNull
